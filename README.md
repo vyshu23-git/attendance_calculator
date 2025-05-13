@@ -1,5 +1,6 @@
 #Attendance_Calculator
-##Calculate Your Attendance Progress
+Calculate Your Attendance Progress
+
 This project helps you track your current attendance and calculates how many classes you need to attend to reach your target attendance percentage.
 
 Features
